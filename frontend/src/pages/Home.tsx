@@ -8,7 +8,7 @@ const Home: React.FC = () => {
     <>
       <AuroraBackgroundDemo />
       <About />
-      <AutoSlidingCarousel />
+      <AutoSlidingCarousel  />
     </>
   );
 };
